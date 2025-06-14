@@ -4,3 +4,26 @@
     box-sizing: border-box;
     font-family: "lato", sans-serif;
 }
+.cabecalho{
+    background-color: aqua;
+    width: 100%;
+    
+    
+    
+    
+
+
+}
+.conjunto-cabecalho{
+    background-color: rgb(255, 0, 242);
+    display: flex;
+    justify-content: space-around;
+    
+
+    
+
+}
+.tamanho-icon{
+    width: 20px;
+    height: 20px;
+}
