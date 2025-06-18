@@ -7,23 +7,80 @@
 .cabecalho{
     background-color: aqua;
     width: 100%;
-    
-    
-    
-    
-
 
 }
 .conjunto-cabecalho{
-    background-color: rgb(255, 0, 242);
+    background-color: rgb(9, 233, 58);
     display: flex;
     justify-content: space-around;
-    
-
-    
+    background-position: center;
+    align-items: center;
+    padding: 1% 1%;
+    gap: 5px;   
 
 }
 .tamanho-icon{
     width: 20px;
     height: 20px;
+}
+
+.email-space{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    
+}
+.tamanho-icon{
+    
+    background-color: rgb(9, 233, 58);
+}
+
+   
+.botao-contorno-face{
+    align-items: center;
+    background-color: rgb(245, 248, 246);
+    border-radius: 10px;
+    height: 4vh;
+    width: 4vh;
+    justify-content: center;
+}
+.botao-contorno-insta{
+    align-items: center;
+    background-color:rgb(245, 248, 246);
+    border-radius: 10px;
+    height: 4vh;
+    width: 4vh;
+    justify-content: center;
+}
+.botao-contorno-tiki{
+    align-items: center;
+    background-color: rgb(245, 248, 246);
+    border-radius: 10px;
+    height: 4vh;
+    width: 4vh;
+    justify-content: center;
+}
+.logo-cadastro{
+    background-color: rgb(102, 36, 189);
+    display: flex;
+    padding: 1% 1%;
+    align-items: center;
+    justify-content: space-;
+
+}
+
+.lupinha{
+    height: 30px;
+    
+}
+.sacola{
+    height: 50px;
+    width: 100px;
+
+}
+.caixinha{
+    background-color: aqua;
+    display: flex;
+    height: 40px;
+
 }
