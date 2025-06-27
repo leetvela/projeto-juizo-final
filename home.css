@@ -197,5 +197,108 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.card4{
+    background-image: url("assets/img/sopa-de-ata-e-com-frango-65dd148c8ce4b.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card5{
+    background-image:url("assets/img/images.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card6{
+    background-image: url("assets/img/images.jfif");
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.card7{
+    background-image:url("assets/img/images\ \(3\).jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card8{
+    background-image: url("assets/img/MG_4517-scaled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.card9{
+    background-image: url("assets/img/images\ \(2\).jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.como-fazer p{
+    color: #fbac00;
+    font-size: 4rem;
+    font-weight:bold;
+}
+.como-fazer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+
+}
+.passos{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+
+}
+.passos p{
+    font-size: 2rem;
+    margin-top: 20px;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px 100px;
 
 
+}
+footer h2{
+    font-weight: bold;
+    font-size: 4rem;
+
+}
+footer button{
+    padding: 30px;
+    font-weight: bold;
+    background-color: #16be2f;
+    font-size: 1rem;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.icon{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+.icon div{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    width: 30%;
+    justify-content: center;
+
+}
+.icon div p{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+
+
+}
